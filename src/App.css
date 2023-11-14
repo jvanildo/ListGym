@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  width: 25rem;
+  background-color: #d3d3d3;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: .5rem;
+  background-color: #d3d3d3;
+}
+
+
+.card-title {
+  text-align: center;
+  padding-bottom: .3rem;
+  border-bottom: 1px solid rgb(62, 62, 94);
+}
+
+li{
+  list-style: none;
+  margin: 0;
+}
+.lista-exercicio{
+  margin: 0;
+}

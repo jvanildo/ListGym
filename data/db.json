@@ -1,0 +1,264 @@
+{
+  "treinos": [
+    {
+      "id": 1,
+      "grupoMuscular": "Peito",
+      "exercicios": [
+        {
+          "nome": "Supino Inclinado Com Halter",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Supino Reto",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Declinado Maquina",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome":"Crosover - Baixo & Alto",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome":"Fly",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "grupoMuscular": "Posterior",
+      "exercicios": [
+     
+        {
+          "nome": "Mesa Flexora",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome": "Flexor Horizontal",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Cadeira Flexora",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },   
+        {
+          "nome": "Stiff",
+          "repeticoes": 10,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "grupoMuscular": "Costas",
+      "exercicios": [
+        {
+          "nome": "Barra Fixa - AQ",
+          "repeticoes": 8,
+          "series": 3,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Remada Curvada",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome": "Puxada Frontal",
+          "repeticoes": 10,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Remada Articulada",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Pull Down",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome":"Posterior De Ombro",
+          "repeticoes":12,
+          "series":4,
+          "tempoMaximo":"1 minuto"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "grupoMuscular": "Quadríceps",
+      "exercicios": [
+        {
+          "nome": "Agachamento Livre",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Leg Press",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Cadeira Extensora",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Sumô",
+          "repeticoes": 10,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome":"Abdutora",
+          "repeticoes":12,
+          "series":3,
+          "tempoMaximo":"1 minuto"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "grupoMuscular": "Panturrilha",
+      "exercicios": [
+        {
+          "nome": "Elevação de Panturrilha Pé",
+          "repeticoes": 15,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Elevação de Panturrilha Sentado",
+          "repeticoes": 20,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "grupoMuscular": "Ombro",
+      "exercicios": [
+        {
+          "nome": "Desenvolvimento com Halteres",
+          "repeticoes": 10,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Elevação Lateral",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome": "Elevação Frontal",
+          "repeticoes": 15,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Desenvolvimento Ombro Maquina",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "grupoMuscular": "Tríceps",
+      "exercicios": [
+        {
+          "nome": "Tríceps Pulley",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Tríceps Coice",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Tríceps Corda",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome": "Tríceps Francês",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "grupoMuscular": "Bíceps",
+      "exercicios": [
+        {
+          "nome": "Rosca Direta",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Martelo",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        },
+        {
+          "nome": "Rosca Direta 45°",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Rosca Concentrada",
+          "repeticoes": 12,
+          "series": 4,
+          "tempoMaximo": "1 minuto"
+        },
+        {
+          "nome": "Rosca Inversa",
+          "repeticoes": 12,
+          "series": 3,
+          "tempoMaximo": "45 segundos"
+        }
+      ]
+    }
+ 
+  ]
+}
